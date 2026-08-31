@@ -31,6 +31,9 @@
     "turbo": "latest"
   },
   "dependencies": {
+    "@radix-ui/react-accordion": "1.2.20",
+    "@radix-ui/react-alert-dialog": "1.1.23",
+    "@radix-ui/react-checkbox": "1.3.11",
     "@stellar/stellar-sdk": "^14.5.0"
   }
 }
